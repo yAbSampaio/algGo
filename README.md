@@ -1,9 +1,9 @@
-#GoLang study
+# GoLang study
 
 This repository contains only examples created while studying the GO programming language.
-##Examples
+## Examples
 
-###Hello Word
+### Hello Word
 
 The default Hello Word in GO.
 
@@ -11,7 +11,7 @@ The default Hello Word in GO.
 go run hello.go
 '''
 
-Conversor
+### Conversor
 
 Algorithm made for converting units how, celsius and farenheit or kilometers and miles, using the strconv package to convert a value to float64, command structure ("if" and "else") and repetition structure ("for").
 "Use: converter <values> <unity>"
@@ -21,7 +21,7 @@ Algorithm made for converting units how, celsius and farenheit or kilometers and
 go run conversor.go 10 20 30 celsius
 '''
 
-QuickSort
+### QuickSort
 
 Application of the "QuickSort" sort algorithm using an append function.
 
