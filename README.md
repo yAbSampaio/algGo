@@ -21,3 +21,9 @@ Algorithm made for converting units how, celsius and farenheit or kilometers and
 Application of the "QuickSort" sort algorithm using an append function.
 
 > go run quicksort.go 10 30 41 53 78 12 19 22 5 7
+
+### Maps
+
+Returns the number of words that begin with the same letter.
+
+> go run maps.go Returns the number of words that begin with the same letter
